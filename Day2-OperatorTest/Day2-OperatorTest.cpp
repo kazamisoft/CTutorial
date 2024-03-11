@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 
-int main()
+int __main()
 {
     int my_age = 50;
     int your_age = 21;
